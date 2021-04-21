@@ -16,6 +16,8 @@ namespace ConsolaSAludo
             Console.ReadKey();
             Console.WriteLine("Hola 3 Huguito!!!!");
             Console.ReadKey();
+            Console.WriteLine("Hola 3 Huguito!!!!");
+            Console.ReadKey();
         }
     }
 }
